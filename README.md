@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="9headache" width="100%" />
+  <img src="./assets/specs.svg" alt="9headache" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://9headache.github.io/LyricalWidget/">
-    <img src="./assets/showcase.svg" alt="LyricalWidget Showcase & Roadmap" width="100%" />
+    <img src="./assets/featured.svg" alt="LyricalWidget — Visit Website" width="100%" />
   </a>
 </div>
 

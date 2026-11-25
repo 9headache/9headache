@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://9headache.github.io/LyricalWidget/">
-    <img src="./assets/specs.svg" alt="Specifications" width="100%" />
+    <img src="./assets/specs.svg" alt="Specifications & Release Pipeline" width="100%" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://9headache.github.io/LyricalWidget/">
-    <img src="./assets/featured.svg" alt="Featured Highlights" width="100%" />
+    <img src="./assets/featured.svg" alt="Highlights" width="100%" />
   </a>
 </div>
 
